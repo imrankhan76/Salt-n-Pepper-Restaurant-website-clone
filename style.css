@@ -1,0 +1,1019 @@
+body {
+  background: black;
+  position: relative;
+}
+.nav-bar {
+  height: 70px;
+  width: 100%;
+  background-color: #000000;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding: 8px 0px;
+  font-size: 16px;
+
+  position: fixed;
+  top: 0%;
+}
+.unordered-list {
+  display: flex;
+  gap: 30px;
+  margin-left: 200px;
+}
+.unordered-list li {
+  list-style-type: none;
+}
+
+.btn1 {
+  border: 1px solid #fff;
+
+  color: white;
+  background-color: black;
+  padding: 20px 20px;
+
+  color: white;
+  border-radius: 80px;
+}
+.btn2 {
+  border: none;
+  margin-left: -25px;
+  padding: 20px 20px;
+
+  background-color: #ed1d26;
+  color: white;
+  border-radius: 80px;
+}
+
+#icon {
+  margin-left: 10px;
+}
+.flex {
+  background-color: #000000;
+  height: 593;
+  width: 100%;
+  padding: 17px 15px 130px;
+  font: 14px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+
+  text-align: center;
+  align-items: center;
+}
+.h1 {
+  font-size: 50px;
+  font-weight: 5px;
+}
+.cards {
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+  margin-bottom: 0px;
+  margin-top: -80px;
+}
+
+.cards div {
+  margin-left: 30px;
+}
+
+.one {
+  margin-top: 30px;
+  font-size: 52px;
+  
+}
+.one span {
+ font-family:myfont;
+ font-size: 52px;
+}
+.font{
+  font-family: myfont;
+  font-size: 32px;
+  color: white;
+}
+.salt span{
+  color: #fff;
+}
+.centre span{
+  color: #fff;
+}
+
+
+
+.two {
+  color: rgb(177, 175, 175);
+  margin-bottom: 40px;
+  margin-top: -30px;
+}
+.btn3 {
+  border: 0.5px solid #dad6d6;
+
+  color: white;
+  background-color: black;
+  padding: 20px;
+  padding-top: 15px;
+
+  border-radius: 50px;
+  margin-top: 20px;
+  width: 174px;
+  height: 50px;
+}
+.banner {
+  margin-top: 90px;
+}
+
+.img-container {
+  height: 1200px;
+  width: 100%;
+}
+.img-container {
+  margin-top: 160px;
+  background-color: rgba(255, 255, 255, 0.06);
+  background-repeat: no-repeat;
+}
+.img-container {
+  background-image: url(assets/bb1bd702-431a-4f3a-a0ca-c5966a1f7985.webp);
+  background-position-y: 50px;
+  background-position-x: 750px;
+}
+.other-text-logo {
+  margin-top: 80px;
+  color: white;
+  text-align: center;
+}
+.heading {
+  margin-top: -15px;
+  font-size: 48px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  color: white;
+}
+.centre {
+  text-align: center;
+}
+.centre span{
+  font-family: myfont;
+  font-size: 52px;
+}
+
+.islamabad {
+  color: #ed1d26;
+  letter-spacing: 10px;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.restaurant {
+  margin-top: 20px;
+  font-size: 38px;
+  font-weight: lighter;
+}
+.two {
+  color: grey;
+  font-size: 18px;
+}
+.size {
+  font-size: larger;
+}
+.size {
+  color: #ffffffb3;
+  font-size: 18px;
+}
+
+.btn4 {
+  border: 0.5px solid #dad6d6;
+
+  color: white;
+  background-color: rgba(255, 255, 255, 0.06);
+  padding: 20px;
+  padding-top: 15px;
+
+  border-radius: 50px;
+  margin-top: 20px;
+  width: 174px;
+  height: 50px;
+  margin-top: 10px;
+}
+.direction {
+  height: 221.64px;
+  width: 406.33px;
+  background-image: url(assets/webfile-1.webp);
+
+  background-size: cover;
+}
+.sec {
+  display: flex;
+  justify-content: space-evenly;
+  color: #ffffff;
+}
+.sec-2 {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row-reverse;
+  color: #ffffffb3;
+}
+.direction-2 {
+  height: 221.64px;
+  width: 406.33px;
+  background-image: url(assets/sec2-img.webp);
+
+  background-size: cover;
+}
+.sec-3 {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-evenly;
+
+  color: #ffffffb3;
+}
+.direction-3 {
+  height: 221.64px;
+  width: 406.33px;
+  background-image: url(assets/section3-img.webp);
+  background-size: cover;
+}
+
+.img-container2 {
+  height: 2543.33px;
+  width: 100%;
+}
+.img-container2 {
+  margin-top: 160px;
+  background-color: rgb(0, 0, 0);
+  background-repeat: no-repeat;
+}
+.img-container2 {
+  background-image: url(assets/p.webp);
+  background-position-y: 50px;
+  background-position-x: 20px;
+}
+
+.centre2 {
+  text-align: center;
+  margin-top: -150px;
+}
+
+/*  cards 2 */
+
+.btn4 {
+  border: 0.5px solid #dad6d6;
+
+  color: white;
+  background-color: black;
+  padding: 20px;
+  padding-top: 15px;
+
+  border-radius: 50px;
+
+  width: 174px;
+  height: 50px;
+}
+.emporium {
+  margin-top: 20px;
+  color: #ed1d26;
+  letter-spacing: 7px;
+  font-weight: lighter;
+  font-size: small;
+}
+.restaurant-2 {
+  color: white;
+  font-size: 25px;
+}
+.size-2 {
+  font-size: small;
+}
+.size-2 {
+  color: #ffffffb3;
+  font-size: 15px;
+}
+.btn5 {
+  border: 0.5px solid #dad6d6;
+
+  color: white;
+  background-color: black;
+  padding: 20px;
+  padding-top: 15px;
+
+  border-radius: 50px;
+  margin-top: 20px;
+  width: 174px;
+  height: 50px;
+}
+#icon-2 {
+  margin-left: 10px;
+}
+.cards-2 {
+  display: flex;
+  justify-content: space-evenly;
+
+  text-align: center;
+}
+
+.cards div {
+  margin-left: 30px;
+}
+/*   for last 2 cards (4th row) */
+.cards-2changing {
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+
+  text-align: center;
+}
+
+.cards div {
+  margin-left: 30px;
+}
+
+.img-contain {
+  height: 700px;
+}
+
+.img-contain {
+  background-image: url(assets/light.webp);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  background-position-x: right;
+}
+.img-container3 {
+  height: 600px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.img-container3 {
+  background-color: #0f0f0f;
+  background-repeat: no-repeat;
+}
+/*   separate */
+.GUJRANWALA {
+  color: #ed1d26;
+  letter-spacing: 10px;
+  font-weight: bold;
+  font-size: larger;
+}
+.btn6 {
+  color: white;
+  background-color: #26a745;
+  padding: 20px;
+  padding-top: 15px;
+  border: none;
+
+  border-radius: 50px;
+  margin-top: 20px;
+  width: 174px;
+  height: 50px;
+  margin-top: 20px;
+}
+.restaurant {
+  margin-top: 20px;
+  font-size: 38px;
+  font-weight: lighter;
+}
+.size-3 {
+  font-size: larger;
+}
+.size-3 {
+  color: #ffffffb3;
+  font-size: 18px;
+}
+
+.sec-main {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row-reverse;
+  color: #ffffff;
+}
+.direction-row-reverse {
+  height: 281.46px;
+  width: 491.33px;
+  background-image: url(assets/card13-img.webp);
+
+  background-size: cover;
+}
+.img-container4 {
+  height: 1174px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.img-container4 {
+  background-color: black;
+  background-repeat: no-repeat;
+}
+/*   boxes */
+
+.first-row {
+  display: flex;
+  justify-content: space-evenly;
+
+  text-align: center;
+  margin-bottom: 32px;
+}
+.box1 {
+  height: 220px;
+  width: 350px;
+  background-color: white;
+  color: #000000;
+  border-radius: 5px;
+  font-size: large;
+}
+.space {
+  color: #a20635;
+  letter-spacing: 3px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: small;
+}
+.location {
+  margin-top: 30px;
+}
+.second-row {
+  display: flex;
+  justify-content: space-evenly;
+}
+.boxes1 {
+  background-image: url(assets/two.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 183px;
+  width: 183px;
+}
+.boxes2 {
+  background-image: url(assets/three.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 183px;
+  width: 183px;
+}
+.boxes3 {
+  background-image: url(assets/threee.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 183px;
+  width: 183px;
+}
+.boxes4 {
+  background-image: url(assets/four.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 183px;
+  width: 183px;
+}
+
+.boxes6 {
+  background-image: url(assets/six.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 183px;
+  width: 183px;
+}
+.boxes7 {
+  background-image: url(assets/one.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 183px;
+  width: 183px;
+}
+
+.img-container5 {
+  height: 100%;
+  width: 100%;
+  margin-top: 230px;
+}
+.img-container5 {
+  background-color: #0f0f0f;
+  background-repeat: no-repeat;
+}
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.footer h4 {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.footer pre {
+  color: #b6b6b6;
+  line-height: 20px;
+  font-size: 15px;
+}
+.footer p {
+  color: #b6b6b6;
+}
+
+.footer ul li {
+  list-style-type: none;
+  margin-left: -30px;
+  line-height: 40px;
+  color: #b6b6b6;
+}
+.logo-icon {
+  display: flex;
+  gap: 10px;
+}
+
+section.copy_right_manin {
+  color: rgba(255, 255, 255, 0.6);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  float: left;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+section.copy_right_manin-second {
+  color: rgba(255, 255, 255, 0.6);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  width: 100%;
+}
+
+.copy_right_text1 span {
+  font-family: "Apercu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.copy_right_text1 span a {
+  font-family: "Apercu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.7);
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* media queries*/
+@media (max-width: 900px) {
+  /* Navigation Bar */
+  .nav-bar {
+    height: auto;
+    padding: 10px 0;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  .unordered-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  .unordered-list li {
+    margin: 0 10px;
+  }
+
+  /* Hide specific navigation items */
+  .unordered-list li:nth-child(1), /* Home */
+    .unordered-list li:nth-child(2), /* About Us */
+    .unordered-list li:nth-child(3)  /* Other */ {
+    display: none;
+  }
+
+  /* Hide black buttons */
+  .btn1,
+  .btn3,
+  .btn4 {
+    display: none;
+  }
+
+  /* Keep red button visible */
+  .btn2 {
+    display: block;
+  }
+
+  /* Buttons */
+  .btn2 {
+    padding: 15px;
+    font-size: 16px;
+    width: 90%;
+    max-width: 300px;
+    margin: 10px auto;
+    text-align: center;
+  }
+
+  /* Cards */
+  .cards {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .cards div {
+    width: 90%;
+    max-width: 350px;
+    margin: 0;
+  }
+
+  /* Sections */
+  .sec,
+  .sec-2,
+  .sec-3 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+  }
+
+  /* Images */
+  .img-container,
+  .img-container2,
+  .img-container3,
+  .img-container4,
+  .img-container5 {
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: 100%;
+  }
+
+  /* Footer */
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .footer h4,
+  .footer pre,
+  .footer p {
+    font-size: 16px;
+  }
+
+  .footer ul {
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer ul li {
+    margin-bottom: 10px;
+  }
+
+  /* Boxes */
+  .box1,
+  .boxes1,
+  .boxes2,
+  .boxes3,
+  .boxes4,
+  .boxes6,
+  .boxes7 {
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* Responsive Adjustments */
+  .first-row,
+  .second-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  /* Village Franchise Section Changes */
+  .village-franchise {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+
+  .village-franchise h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .village-franchise p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+}
+
+/* For devices with max-width up to 800px (Mobile Landscape) */
+@media (max-width: 800px) {
+  /* Navigation Bar */
+  .nav-bar {
+    height: auto;
+    padding: 8px 0;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  .unordered-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  .unordered-list li {
+    margin: 0 8px;
+  }
+
+  /* Hide black buttons */
+  .btn1,
+  .btn3,
+  .btn4 {
+    display: none;
+  }
+
+  /* Keep red button visible */
+  .btn2 {
+    display: block;
+  }
+
+  /* Buttons */
+  .btn2 {
+    padding: 12px;
+    font-size: 14px;
+    width: 95%;
+    max-width: 280px;
+    margin: 8px auto;
+  }
+
+  /* Cards */
+  .cards {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .cards div {
+    width: 95%;
+    max-width: 300px;
+  }
+
+  /* Sections */
+  .sec,
+  .sec-2,
+  .sec-3 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+  }
+
+  /* Images */
+  .img-container,
+  .img-container2,
+  .img-container3,
+  .img-container4,
+  .img-container5 {
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* Footer */
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+  }
+
+  .footer h4,
+  .footer pre,
+  .footer p {
+    font-size: 14px;
+  }
+
+  .footer ul li {
+    margin-bottom: 8px;
+  }
+
+  /* Boxes */
+  .box1,
+  .boxes1,
+  .boxes2,
+  .boxes3,
+  .boxes4,
+  .boxes6,
+  .boxes7 {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Village Franchise Section Changes */
+  .village-franchise {
+    text-align: center;
+    padding: 15px;
+    background-color: #444;
+    color: #fff;
+  }
+
+  .village-franchise h2 {
+    font-size: 22px;
+    margin-bottom: 8px;
+  }
+
+  .village-franchise p {
+    font-size: 14px;
+  }
+}
+
+/* For devices with max-width up to 700px (Mobile Portrait) */
+@media (max-width: 700px) {
+  /* Navigation Bar */
+  .nav-bar {
+    height: auto;
+    padding: 5px 0;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  .unordered-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  .unordered-list li {
+    margin: 0 5px;
+  }
+
+  /* Hide specific navigation items */
+  .unordered-list li:nth-child(1), /* Home */
+    .unordered-list li:nth-child(2), /* About Us */
+    .unordered-list li:nth-child(3)  /* Other */ {
+    display: none;
+  }
+
+  /* Hide black buttons */
+  .btn1,
+  .btn3,
+  .btn4 {
+    display: none;
+  }
+
+  /* Keep red button visible */
+  .btn2 {
+    display: block;
+  }
+
+  /* Buttons */
+  .btn2 {
+    padding: 10px;
+    font-size: 12px;
+    width: 100%;
+    max-width: 260px;
+    margin: 5px auto;
+  }
+
+  /* Cards */
+  .cards {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .cards div {
+    width: 100%;
+    max-width: 280px;
+  }
+
+  /* Sections */
+  .sec,
+  .sec-2,
+  .sec-3 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+  }
+
+  /* Images */
+  .img-container,
+  .img-container2,
+  .img-container3,
+  .img-container4,
+  .img-container5 {
+    background-size: cover;
+    background-position: center;
+  }
+
+  /* Footer */
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .footer h4,
+  .footer pre,
+  .footer p {
+    font-size: 12px;
+  }
+
+  .footer ul li {
+    margin-bottom: 5px;
+  }
+
+  /* Boxes */
+  .box1,
+  .boxes1,
+  .boxes2,
+  .boxes3,
+  .boxes4,
+  .boxes6,
+  .boxes7 {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Village Franchise Section Changes */
+  .village-franchise {
+    text-align: center;
+    padding: 10px;
+    background-color: #555;
+    color: #fff;
+  }
+
+  .village-franchise h2 {
+    font-size: 20px;
+    margin-bottom: 6px;
+  }
+
+  .village-franchise p {
+    font-size: 12px;
+  }
+  .direction-row-reverse {
+    visibility: hidden;
+  }
+}
+
+@media (max-width: 981.33px) {
+  .btn1 {
+    visibility: collapse;
+  }
+  .btn2 {
+    font-size: small;
+    border: none;
+
+    padding: 15px 15px;
+  }
+  .butn {
+    visibility: collapse;
+  }
+
+  .unordered-list {
+    visibility: collapse;
+  }
+  .cards-2 {
+    gap: 10px;
+  }
+
+  .first-row {
+    gap: 10px;
+  }
+  .second-row {
+    gap: 10px;
+  }
+
+  .direction-row-reverse {
+    height: 200.46px;
+    width: 350.33px;
+    background-image: url(assets/card13-img.webp);
+
+    background-size: cover;
+    margin-right: 10px;
+  }
+}
+
+@font-face{
+  font-family: myFont;
+  src:url(futurak.ttf)
+}
+
+
